@@ -70,7 +70,7 @@
 ---
 
 <details>
-  <summary>:zap:📈 Statistiques GitHub</summary>
+  <summary>📈 Statistiques GitHub</summary>
   
   <br/>
 
