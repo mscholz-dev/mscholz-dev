@@ -63,9 +63,9 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/mscholz.dev#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/mscholz.dev#gh-dark-mode-only)
 
-<br/>
+### Me contacter par email:
 
-### Me contacter par email: [mscholz.dev@gmail.com]("mailto:mscholz.dev@gmail.com?subject=[GitHub]%20Source%20Han%20Sans")
+[mscholz.dev@gmail.com]("mailto:mscholz.dev@gmail.com?subject=[GitHub]%20Source%20Han%20Sans")
 
 ---
 
@@ -74,10 +74,10 @@
   
   <br/>
 
-  <img align="left" alt="Tous les commits" src="https://github-readme-stats.vercel.app/api?username=mscholz-dev&show_icons=true&hide_border=false&theme=github_dark&count_private=true&custom_title=Tous%20les%20commits&hide=prs,issues&card_width=460px" />
+  <img align="left" alt="Tous les commits" src="https://github-readme-stats.vercel.app/api?username=mscholz-dev&show_icons=true&hide_border=true&theme=github_dark&count_private=true&custom_title=Tous%20les%20commits&hide=prs,issues&card_width=460px" />
 
 &nbsp;&nbsp;
 
-  <img align="left" alt="Langages les plus utilisés (repo public)" src="https://github-readme-stats.vercel.app/api/top-langs?username=mscholz-dev&show_icons=true&hide_border=false&theme=github_dark&count_private=true&custom_title=Langages%20les%20plus%20utilisés%20(repo%20public)&hide=pug,shell,html,css,ejs,procfile&card_width=460px"/>
+  <img align="left" alt="Langages les plus utilisés (repo public)" src="https://github-readme-stats.vercel.app/api/top-langs?username=mscholz-dev&show_icons=true&hide_border=true&theme=github_dark&count_private=true&custom_title=Langages%20les%20plus%20utilisés%20(repo%20public)&hide=pug,shell,html,css,ejs,procfile&card_width=460px"/>
 
 </details>
