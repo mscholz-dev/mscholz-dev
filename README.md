@@ -4,8 +4,6 @@
 
 [![wobinit.vercel.app](https://img.shields.io/website?label=wobinit.vercel.app&style=for-the-badge&url=https://wobinit.vercel.app)](https://wobinit.vercel.app)
 
-<br/>
-
 [![exact-form.herokuapp.com](https://img.shields.io/website?label=exact-form.herokuapp.com&style=for-the-badge&url=https://exact-form.herokuapp.com)](https://exact-form.herokuapp.com)
 
 ## Je suis un développeur Full Stack JS !
