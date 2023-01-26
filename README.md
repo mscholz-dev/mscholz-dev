@@ -40,6 +40,16 @@
 <br/>
 <br/>
 
+### Environnement de développement :
+
+<img align="left" alt="Vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Npm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
+
+<br/>
+<br/>
+
 ---
 
 ### Se connecter à moi :
@@ -52,6 +62,10 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/mscholz.dev#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/mscholz.dev#gh-dark-mode-only)
+
+<br/>
+
+### Me contacter par email: [mscholz.dev@gmail.com]("mailto:mscholz.dev@gmail.com?subject=[GitHub]%20Source%20Han%20Sans")
 
 ---
 
