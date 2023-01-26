@@ -65,7 +65,7 @@
 
 ### Me contacter par email:
 
-[mscholz.dev@gmail.com]("mailto:mscholz.dev@gmail.com?subject=[GitHub]%20Source%20Han%20Sans")
+[mscholz.dev@gmail.com](mailto:mscholz.dev@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 ---
 
