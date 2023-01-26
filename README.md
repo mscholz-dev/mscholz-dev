@@ -1,10 +1,10 @@
-# Salut, je m'appelle Morgan 👋
+# Salut, je m'appelle Morgan Scholz 👋
 
 ## Sites personnels en production :
 
-[![Website](https://img.shields.io/website?label=wobinit.vercel.app&style=for-the-badge&url=https://wobinit.vercel.app)](https://wobinit.vercel.app)
+[![wobinit.vercel.app](https://img.shields.io/website?label=wobinit.vercel.app&style=for-the-badge&url=https://wobinit.vercel.app)](https://wobinit.vercel.app)
 <br/>
-[![Website](https://img.shields.io/website?label=exact-form.herokuapp.com&style=for-the-badge&url=https://exact-form.herokuapp.com)](https://exact-form.herokuapp.com)
+[![exact-form.herokuapp.com](https://img.shields.io/website?label=exact-form.herokuapp.com&style=for-the-badge&url=https://exact-form.herokuapp.com)](https://exact-form.herokuapp.com)
 
 ## Je suis un développeur Full Stack JS !
 
@@ -54,18 +54,18 @@
 
 ### Se connecter à moi :
 
-[![website](./img/globe-light.svg)](https://wobinit.vercel.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://wobinit.vercel.app#gh-dark-mode-only)
+[![globe](./img/globe-light.svg)](https://wobinit.vercel.app#gh-light-mode-only)
+[![globe](./img/globe-dark.svg)](https://wobinit.vercel.app#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/morgan-scholz-272b41243#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/morgan-scholz-272b41243#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/morgan-scholz-272b41243#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/morgan-scholz-272b41243#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/mscholz.dev#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/mscholz.dev#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://instagram.com/mscholz.dev#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/mscholz.dev#gh-dark-mode-only)
 
 ### Me contacter par email:
 
-[mscholz.dev@gmail.com](mailto:mscholz.dev@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[mscholz.dev@gmail.com](mailto:mscholz.dev@gmail.com?subject=[GitHub]%20Prise%20de%20contact)
 
 ---
 
