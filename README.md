@@ -2,7 +2,7 @@
 
 ## Sites personnels en production :
 
-[![exact-form.com](https://img.shields.io/website?label=exact-form.com&style=for-the-badge&url=https://exact-form.com)](https://exact-form.com)
+[![exact-form.com/fr](https://img.shields.io/website?label=exact-form.com/fr&style=for-the-badge&url=https://exact-form.com/fr)](https://exact-form.com/fr)
 
 [![wobinit.vercel.app](https://img.shields.io/website?label=wobinit.vercel.app&style=for-the-badge&url=https://wobinit.vercel.app)](https://wobinit.vercel.app)
 
