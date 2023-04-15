@@ -9,8 +9,8 @@
 ## Je suis un développeur Full Stack JS !
 
 - 🌱 Je suis actuellement entrain d'apprendre une nouvelle technologie JS 🤣
-- 🥅 Objectif 2023: Maitriser TS et la méthode TDD
-- ⚡ Anecdote: Joueur Osu! le week-end
+- 🥅 Objectif 2023: Maitriser TS
+- ⚡ Lecteur de temps en temps
 
 ### Langages :
 
