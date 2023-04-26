@@ -1,11 +1,5 @@
 # Salut, je m'appelle Morgan Scholz 👋
 
-## Sites personnels en production :
-
-[![exact-form.com/fr](https://img.shields.io/website?label=exact-form.com/fr&style=for-the-badge&url=https://exact-form.com/fr)](https://exact-form.com/fr)
-
-[![wobinit.vercel.app](https://img.shields.io/website?label=wobinit.vercel.app&style=for-the-badge&url=https://wobinit.vercel.app)](https://wobinit.vercel.app)
-
 ## Je suis un développeur Full Stack JS !
 
 - 🌱 Je suis actuellement entrain d'apprendre une nouvelle technologie JS 🤣
