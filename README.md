@@ -48,8 +48,8 @@
 
 ### Se connecter à moi :
 
-[![globe](./img/globe-light.svg)](https://wobinit.vercel.app#gh-light-mode-only)
-[![globe](./img/globe-dark.svg)](https://wobinit.vercel.app#gh-dark-mode-only)
+[![globe](./img/globe-light.svg)](https://mscholz.dev#gh-light-mode-only)
+[![globe](./img/globe-dark.svg)](https://mscholz.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/morgan-scholz#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/morgan-scholz#gh-dark-mode-only)
