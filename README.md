@@ -3,7 +3,7 @@
 ## Je suis un développeur Full Stack JS !
 
 - 🌱 Je suis actuellement entrain d'apprendre une nouvelle technologie JS 🤣
-- 🥅 Objectif 2023: Maitriser TS
+- 🥅 Objectif 2023: Maitriser TS / Freelancing !!!
 - ⚡ Lecteur de temps en temps
 
 ### Langages :
