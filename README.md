@@ -1,73 +1,46 @@
-# Salut, je m'appelle Morgan Scholz 👋
+<a href="https://mscholz.dev/" target="_blank" title="Portfolio de Morgan SCHOLZ"><img src="./img/github-banner.png" alt="Bannière avec une image de Morgan SCHOLZ"/></a>
 
-## Je suis un développeur Full Stack JS !
+<h2>À propos de moi 👨‍💻</h2>
 
-- 🌱 Je suis actuellement entrain d'apprendre une nouvelle technologie JS 🤣
-- 🥅 Objectif 2023: Maitriser TS / Freelancing !!!
-- ⚡ Lecteur de temps en temps
+<p>Salut ! Je suis un développeur concepteur web passionné, spécialisé le développement front-end et back-end avec une expertise approfondie en JavaScript. 💻✨
+Je suis constamment à l'affût des dernières tendances technologiques et je m'efforce de créer des expériences utilisateur captivantes et interactives. 😃</p>
 
-### Langages :
+<p>Mon parcours m'a permis d'acquérir une solide expérience dans le développement web, en travaillant sur des projets allant de simples sites statiques aux applications web complexes. 🚀
+Je suis particulièrement intéressé par l'optimisation des performances ⚡️ et l'amélioration de l'accessibilité ♿️ pour offrir une expérience utilisateur exceptionnelle.</p>
 
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<p>Je suis passionné par la collaboration et j'apprécie travailler en équipe pour développer des solutions innovantes. 💪
+Je crois fermement en l'importance de l'apprentissage continu 📚 et je suis toujours ouvert à de nouvelles opportunités pour développer mes compétences et rester à jour avec les dernières avancées technologiques.</p>
 
-<br/>
-<br/>
+<p>N'hésitez pas à parcourir mes projets GitHub pour découvrir mon travail et à me contacter si vous souhaitez collaborer sur un projet ou discuter des défis passionnants du développement web. ✨🌟
+Je suis toujours ouvert aux nouvelles collaborations et je serais ravi de discuter de vos idées et de travailler ensemble pour réaliser des projets exceptionnels. 💪🚀</p>
 
-### Frameworks :
+<h2>Compétences 🚀</h2>
 
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
+<ul>
+  <li>Langages de programmation : SCSS 🎨, JavaScript (ES6+) ⚡, TypeScript 💙</li>
+  <li>Frameworks et bibliothèques : React.js ⚛️, Next.js 🔥, Express.js 🚀, Gatsby.js 🎩</li>
+  <li>Outils de développement : Webpack 📦, Babel 🔄, Git 🐙, npm 📚</li>
+  <li>Conception UI/UX : Wireframing 📐, prototypage 🎨, expérience utilisateur 🧠</li>
+  <li>Test et débogage : Jest 🃏, Cypress 🧪</li>
+  <li>Optimisation web : Performance ⚡, accessibilité ♿, SEO 📈, Sécurité 🔒</li>
+  <li>Méthodologies de travail : Agile/Scrum 🐾, GitFlow 🌊</li>
+</ul>
 
-<br />
-<br />
+<h2>Portfolio 💼</h2>
 
-### Moteurs de bases de données :
+<p>Je suis également fier de vous présenter mon portfolio, où vous pouvez découvrir mes réalisations et en apprendre davantage sur mon parcours professionnel. 🎉</p>
 
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<p>Visitez <a href="https://mscholz.dev/" target="_blank">mscholz.dev</a> pour explorer mes projets, découvrir mon approche créative et en apprendre plus sur mes compétences en développement web. 🌟</p>
 
-<br/>
-<br/>
+<p>Sur mon portfolio, vous trouverez :</p>
 
-### Environnement de développement :
+<ul>
+  <li>Une galerie de mes projets les plus récents et les plus complets, avec des démonstrations interactives. 🖼️</li>
+  <li>Des informations détaillées sur mes compétences techniques et mes expériences professionnelles. 📚💼</li>
+  <li>Des témoignages de clients satisfaits et de collaborateurs avec lesquels j'ai travaillé. 🙌🤝</li>
+  <li>Un moyen simple de me contacter pour discuter de projets, d'opportunités de collaboration ou simplement pour échanger des idées. 📬📞</li>
+</ul>
 
-<img align="left" alt="Vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Npm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
+<p>Je mets régulièrement à jour mon portfolio avec de nouveaux projets et des informations pertinentes, alors assurez-vous de le visiter fréquemment pour rester à jour sur mes dernières réalisations. 🚀✨</p>
 
-<br/>
-<br/>
-
----
-
-### Se connecter à moi :
-
-[![globe](./img/globe-light.svg)](https://mscholz.dev#gh-light-mode-only)
-[![globe](./img/globe-dark.svg)](https://mscholz.dev#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/morgan-scholz#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/morgan-scholz#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://instagram.com/mscholz.dev#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://instagram.com/mscholz.dev#gh-dark-mode-only)
-
-### Me contacter par email:
-
-[mscholz.dev@gmail.com](mailto:mscholz.dev@gmail.com?subject=[GitHub]%20Prise%20de%20contact)
-
----
-
-<details>
-  <summary>📈 Statistiques GitHub</summary>
-  
-  <br/>
-
-  <img align="left" alt="Tous les commits" src="https://github-readme-stats.vercel.app/api?username=mscholz-dev&show_icons=true&hide_border=true&theme=github_dark&count_private=true&custom_title=Tous%20les%20commits&hide=prs,issues&card_width=460px" />
-
-</details>
+<p>Je vous invite chaleureusement à explorer mon portfolio pour en savoir plus sur mon travail et mes compétences. J'espère que vous apprécierez votre visite ! 😉</p>
