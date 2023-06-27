@@ -18,7 +18,7 @@ Je suis toujours ouvert aux nouvelles collaborations et je serais ravi de discut
 
 <ul>
   <li>Langages de programmation : SCSS 🎨, JavaScript (ES6+) ⚡, TypeScript 💙</li>
-  <li>Frameworks et bibliothèques : React.js ⚛️, Next.js 🔥, Express.js 🚀, Gatsby.js 🎩</li>
+  <li>Frameworks et bibliothèques : React.js ⚛️, Next.js 🔥, Express.js 🚀, Vue.js 👁️, Gatsby.js 🎩</li>
   <li>Outils de développement : Webpack 📦, Babel 🔄, Git 🐙, npm 📚</li>
   <li>Conception UI/UX : Wireframing 📐, prototypage 🎨, expérience utilisateur 🧠</li>
   <li>Test et débogage : Jest 🃏, Cypress 🧪</li>
