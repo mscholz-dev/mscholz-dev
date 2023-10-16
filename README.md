@@ -44,5 +44,3 @@ Je suis toujours ouvert aux nouvelles collaborations et je serais ravi de discut
 <p>Je mets régulièrement à jour mon portfolio avec de nouveaux projets et des informations pertinentes, alors assurez-vous de le visiter fréquemment pour rester à jour sur mes dernières réalisations. 🚀✨</p>
 
 <p>Je vous invite chaleureusement à explorer mon portfolio pour en savoir plus sur mon travail et mes compétences. J'espère que vous apprécierez votre visite ! 😉</p>
-
-[![wakatime](https://wakatime.com/badge/user/6575d1c0-2ddb-4a19-a6a0-4de76b76c27c.svg)](https://wakatime.com/@6575d1c0-2ddb-4a19-a6a0-4de76b76c27c)
