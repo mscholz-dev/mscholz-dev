@@ -1,5 +1,5 @@
 <a href="https://mscholz.dev/" target="_blank" title="Portfolio de Morgan SCHOLZ"><img src="./img/github-banner.png" alt="Bannière avec une image de Morgan SCHOLZ"/></a>
-
+ <!--
 <h2>À propos de moi 👨‍💻</h2>
 
 <p>Salut ! Je suis un développeur concepteur web passionné, spécialisé le développement front-end et back-end avec une expertise approfondie en JavaScript. 💻✨
@@ -44,3 +44,41 @@ Je suis toujours ouvert aux nouvelles collaborations et je serais ravi de discut
 <p>Je mets régulièrement à jour mon portfolio avec de nouveaux projets et des informations pertinentes, alors assurez-vous de le visiter fréquemment pour rester à jour sur mes dernières réalisations. 🚀✨</p>
 
 <p>Je vous invite chaleureusement à explorer mon portfolio pour en savoir plus sur mon travail et mes compétences. J'espère que vous apprécierez votre visite ! 😉</p>
+-->
+
+👨‍💻 À propos de moi
+Salut ! Je suis Morgan Scholz, un développeur concepteur web passionné, spécialisé dans la création de solutions entièrement personnalisées, from scratch, sans dépendre de templates préfabriqués. 🎨🚀
+
+J’excelle aussi bien en front-end qu’en back-end, avec une expertise approfondie en JavaScript, TypeScript, Next.js et Express.js. Toujours à l’affût des dernières avancées technologiques, je conçois des interfaces interactives et optimisées, en mettant un point d’honneur sur la performance, l’accessibilité et l’expérience utilisateur. ⚡♿
+
+Mon parcours m’a permis de travailler sur des projets variés, allant de sites vitrines minimalistes à des applications web complexes et interactives, intégrant des animations fluides, des dashboards d’administration et des fonctionnalités en temps réel via WebSockets. 💡✨
+
+🎯 Ce qui me passionne :
+
+L’optimisation des performances web pour offrir des expériences rapides et réactives. ⚡
+L’accessibilité numérique, pour rendre mes interfaces intuitives et inclusives. ♿
+Le design d’interaction et les animations avancées, pour des expériences engageantes. 🎨
+L’architecture logicielle et les bonnes pratiques, pour assurer la maintenabilité et l’évolutivité des projets. 🏗️
+J’adore collaborer avec d’autres professionnels, échanger des idées et créer des solutions adaptées aux besoins réels des utilisateurs. Toujours en quête de perfectionnement, je suis convaincu que l’apprentissage continu est essentiel dans notre domaine. 📚
+
+🚀 Compétences
+🔹 Langages de programmation : JavaScript (ES6+), TypeScript, SCSS
+🔹 Frameworks & Bibliothèques : Next.js, React.js, Express.js, Framer Motion
+🔹 Back-end & API : Node.js, Express.js, WebSockets, REST API
+🔹 Tests & Qualité : Jest, Cypress, Tests unitaires & E2E
+🔹 Performance & Accessibilité : Optimisation web, SEO, WAI-ARIA, Lazy Loading
+🔹 Déploiement & DevOps : Docker, CI/CD, Vercel, Stratégies de déploiement (Blue-Green, Canary)
+🔹 Méthodologies : Développement from scratch, GitFlow, Agile/Scrum
+
+💼 Portfolio
+📢 Découvrez mes réalisations sur mscholz.dev
+
+Mon portfolio est une vitrine interactive et entièrement personnalisée, où vous pouvez explorer :
+🖼️ Une galerie de mes projets, détaillant mes créations les plus récentes et leurs aspects techniques.
+📚 Une présentation de mon parcours, avec un focus sur mes compétences et expériences professionnelles.
+📈 Une section dédiée aux technologies que j’utilise, mises en avant directement sur la page d’accueil.
+📢 Un changelog détaillé, retraçant les mises à jour et évolutions du site.
+✍️ Un blog, où je partage mes réflexions sur le développement et mes découvertes techniques.
+📬 Un moyen direct de me contacter, pour discuter de collaborations et de nouveaux défis.
+
+🚀 Je mets régulièrement mon site à jour avec de nouveaux projets et articles, alors n’hésitez pas à y faire un tour !
